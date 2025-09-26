@@ -1,7 +1,7 @@
 p {
     size: 30px;
-    color: aqua;
-    text-align: right;
+    color: green;
+    text-align: center;
     
 }
 h1 {
@@ -9,6 +9,16 @@ h1 {
     padding: 10px;
     text-align: center;
     background: red;
-    
 
+}
+
+div {
+    height: 100px;
+    width: 100%;
+    background: #dddd;
+
+}
+div h1 {
+    color: white;
+    text-align: left;
 }
